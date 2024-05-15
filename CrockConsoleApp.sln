@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrockConsoleApp", "CrockConsoleApp\CrockConsoleApp.csproj", "{AD855D83-A580-4EA9-9C98-D08255DB25C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD855D83-A580-4EA9-9C98-D08255DB25C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD855D83-A580-4EA9-9C98-D08255DB25C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD855D83-A580-4EA9-9C98-D08255DB25C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD855D83-A580-4EA9-9C98-D08255DB25C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74341B5C-7FC7-4FF0-9DAE-50765DD0F8F4}
+	EndGlobalSection
+EndGlobal
